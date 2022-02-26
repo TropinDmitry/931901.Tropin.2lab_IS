@@ -1,0 +1,10 @@
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\bin\Debug\2lab_IM.exe.config
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\bin\Debug\2lab_IM.exe
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\bin\Debug\2lab_IM.pdb
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\obj\Debug\2lab_IM.csproj.AssemblyReference.cache
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\obj\Debug\_2lab_IM.Form1.resources
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\obj\Debug\_2lab_IM.Properties.Resources.resources
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\obj\Debug\2lab_IM.csproj.GenerateResource.cache
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\obj\Debug\2lab_IM.csproj.CoreCompileInputs.cache
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\obj\Debug\2lab_IM.exe
+D:\I am Photoshop, it is a Programmer\Visual Studio\C#\2lab_IM\2lab_IM\obj\Debug\2lab_IM.pdb
